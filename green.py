@@ -8,7 +8,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 # Set the LED GPIO number
-LED = 23
+LED = 26
 
 # Set the LED GPIO pin as an output
 GPIO.setup(LED, GPIO.OUT)
